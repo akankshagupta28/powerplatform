@@ -1,0 +1,7 @@
+#ReadMe
+Use Case Description:
+    In an ongoing Project, there is a requirement where End User should be able to raise a ticket whenever they face any issue. 
+    That issue will create a Backlog item in Azure DevOps. End User should receive ticket number which will be the User Story number.
+    All the issues raised will be stored in backend as well so that they can be used for reporting or tracking purpose.
+    
+For this, I used Canvas Power App, Instant Power Automate Flow and access to an Azure DevOps board.
