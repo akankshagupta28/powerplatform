@@ -1,0 +1,3 @@
+This folder will have the Power Automate flow.
+This flow will receive details from Canvas Apps, creates a Backlog Item in Azure DevOps board, make an entry in backend (SharePoint in my case) and 
+  return the Work Item ID to Power Apps
